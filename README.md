@@ -29,5 +29,5 @@ I have included compiled 2 files.
 2.) Compressed tar file of code source and pom.xml (Google doesn't let me attach zip file so had to compress it to tar)
 
 The request URL are following for the compiled source:
-1.) for Unique count - demo/users/total
-2.) for updated JSON - demo/users/update/4
+1.) for Unique count - users/total
+2.) for updated JSON - users/update/4
