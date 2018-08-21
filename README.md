@@ -1,7 +1,5 @@
 # springrest
 
-Take home story:
-
 "Using the following JSON feed: http://jsonplaceholder.typicode.com/posts"
 
 Create REST endpoints that reads the above JSON feed using HTTP.  The service should perform the following tasks:
@@ -21,22 +19,6 @@ Return the modified JSON in the endpoint response.
 Unit tests
 
 Should be runnable via "mvn test"
-
-Should be written to test all aspects of the application (include mock of the feed).
-
-Requirements
-
-Use Java 1.8+
-
-Use Spring Boot
-
-Use Maven
-
-Use JUnit and Mockito or other mock testing framework
-
-All dependencies should be publicly available or properly included with the project and referenced within the POM
-
-Be creative, have fun and may the force be with you
 ______________________________________________________
 
 A part of the requirement was unclear to me but I have tried to implement what seemed best.
